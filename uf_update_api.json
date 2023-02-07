@@ -1,0 +1,12 @@
+{
+  "Code": 0,
+  "Msg": "",
+  "UpdateStatus": 0,
+  "VersionCode": 44,
+  "VersionName": "1.1.4.1",
+  "UploadTime": "2022-11-05 01:30:00",
+  "ModifyContent": "\r\n1、修复部分已知问题。\n2、优化了部分组件功能。\n3、新增更多使用演示。",
+  "DownloadUrl": "demo.apk",
+  "ApkSize": 13459,
+  "ApkMd5": ""
+}
